@@ -26,6 +26,7 @@ function App() {
     const searchLower = searchTerm.toLowerCase();
     return (
       profile.nome.toLowerCase().includes(searchLower) ||
+      profile.cargo.toLowerCase().includes(searchLower) ||
       profile.area.toLowerCase().includes(searchLower) ||
       profile.localizacao.toLowerCase().includes(searchLower) ||
       profile.habilidadesTecnicas.some(skill => skill.toLowerCase().includes(searchLower))
