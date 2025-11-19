@@ -1,0 +1,3362 @@
+[
+  {
+    "id": 1,
+    "nome": "Beatriz Santos",
+    "foto": "https://i.pravatar.cc/300?img=2",
+    "cargo": "Designer de Produto",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Git",
+      "SQL",
+      "React"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 2,
+    "nome": "Gabriel Oliveira",
+    "foto": "https://i.pravatar.cc/300?img=3",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 3,
+    "nome": "Ana Souza",
+    "foto": "https://i.pravatar.cc/300?img=4",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "CSS",
+      "Git",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 4,
+    "nome": "Rafael Rodrigues",
+    "foto": "https://i.pravatar.cc/300?img=5",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Git",
+      "SQL",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 5,
+    "nome": "Juliana Ferreira",
+    "foto": "https://i.pravatar.cc/300?img=6",
+    "cargo": "QA Tester",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa F Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 6,
+    "nome": "Mateus Alves",
+    "foto": "https://i.pravatar.cc/300?img=7",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "CSS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa G Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 7,
+    "nome": "Larissa Pereira",
+    "foto": "https://i.pravatar.cc/300?img=8",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "CSS",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa H Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 8,
+    "nome": "Tiago Lima",
+    "foto": "https://i.pravatar.cc/300?img=9",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa I Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 9,
+    "nome": "Camila Gomes",
+    "foto": "https://i.pravatar.cc/300?img=10",
+    "cargo": "Designer de Produto",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Remoto",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "CSS",
+      "React",
+      "Git"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa J Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 10,
+    "nome": "Bruno Costa",
+    "foto": "https://i.pravatar.cc/300?img=11",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "Git",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa K Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 11,
+    "nome": "Fernanda Ribeiro",
+    "foto": "https://i.pravatar.cc/300?img=12",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa L Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 12,
+    "nome": "Rodrigo Martins",
+    "foto": "https://i.pravatar.cc/300?img=13",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "CSS",
+      "Git",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa M Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 13,
+    "nome": "Patricia Carvalho",
+    "foto": "https://i.pravatar.cc/300?img=14",
+    "cargo": "QA Tester",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "React",
+      "Git",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa N Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 14,
+    "nome": "Gustavo Almeida",
+    "foto": "https://i.pravatar.cc/300?img=15",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "Git"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa O Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 15,
+    "nome": "Amanda Lopes",
+    "foto": "https://i.pravatar.cc/300?img=16",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "CSS"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa P Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 16,
+    "nome": "Felipe Soares",
+    "foto": "https://i.pravatar.cc/300?img=17",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CSS",
+      "React",
+      "Git"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Q Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 17,
+    "nome": "Mariana Fernandes",
+    "foto": "https://i.pravatar.cc/300?img=18",
+    "cargo": "Designer de Produto",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa R Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 18,
+    "nome": "André Vieira",
+    "foto": "https://i.pravatar.cc/300?img=19",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa S Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 19,
+    "nome": "Carolina Barbosa",
+    "foto": "https://i.pravatar.cc/300?img=20",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Remoto",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "Git",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa T Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 20,
+    "nome": "Lucas Silva",
+    "foto": "https://i.pravatar.cc/300?img=21",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa U Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 21,
+    "nome": "Beatriz Santos",
+    "foto": "https://i.pravatar.cc/300?img=22",
+    "cargo": "QA Tester",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CSS",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa V Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 22,
+    "nome": "Gabriel Oliveira",
+    "foto": "https://i.pravatar.cc/300?img=23",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "React"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa W Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 23,
+    "nome": "Ana Souza",
+    "foto": "https://i.pravatar.cc/300?img=24",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 24,
+    "nome": "Rafael Rodrigues",
+    "foto": "https://i.pravatar.cc/300?img=25",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Git",
+      "JavaScript",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Y Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 25,
+    "nome": "Juliana Ferreira",
+    "foto": "https://i.pravatar.cc/300?img=26",
+    "cargo": "Designer de Produto",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Z Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 26,
+    "nome": "Mateus Alves",
+    "foto": "https://i.pravatar.cc/300?img=27",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Git",
+      "CSS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 27,
+    "nome": "Larissa Pereira",
+    "foto": "https://i.pravatar.cc/300?img=28",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "Git",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 28,
+    "nome": "Tiago Lima",
+    "foto": "https://i.pravatar.cc/300?img=29",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 29,
+    "nome": "Camila Gomes",
+    "foto": "https://i.pravatar.cc/300?img=30",
+    "cargo": "QA Tester",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Remoto",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 30,
+    "nome": "Bruno Costa",
+    "foto": "https://i.pravatar.cc/300?img=31",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "CSS"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 31,
+    "nome": "Fernanda Ribeiro",
+    "foto": "https://i.pravatar.cc/300?img=32",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "Git",
+      "CSS",
+      "React"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa F Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 32,
+    "nome": "Rodrigo Martins",
+    "foto": "https://i.pravatar.cc/300?img=33",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa G Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 33,
+    "nome": "Patricia Carvalho",
+    "foto": "https://i.pravatar.cc/300?img=34",
+    "cargo": "Designer de Produto",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "React"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa H Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 34,
+    "nome": "Gustavo Almeida",
+    "foto": "https://i.pravatar.cc/300?img=35",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa I Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 35,
+    "nome": "Amanda Lopes",
+    "foto": "https://i.pravatar.cc/300?img=36",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa J Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 36,
+    "nome": "Felipe Soares",
+    "foto": "https://i.pravatar.cc/300?img=37",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CSS",
+      "SQL",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa K Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 37,
+    "nome": "Mariana Fernandes",
+    "foto": "https://i.pravatar.cc/300?img=38",
+    "cargo": "QA Tester",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "Git",
+      "CSS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa L Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 38,
+    "nome": "André Vieira",
+    "foto": "https://i.pravatar.cc/300?img=39",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "Git"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa M Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 39,
+    "nome": "Carolina Barbosa",
+    "foto": "https://i.pravatar.cc/300?img=40",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Remoto",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "CSS",
+      "React",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa N Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 40,
+    "nome": "Lucas Silva",
+    "foto": "https://i.pravatar.cc/300?img=41",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "Git",
+      "SQL"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa O Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 41,
+    "nome": "Beatriz Santos",
+    "foto": "https://i.pravatar.cc/300?img=42",
+    "cargo": "Designer de Produto",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa P Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 42,
+    "nome": "Gabriel Oliveira",
+    "foto": "https://i.pravatar.cc/300?img=43",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "Git"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Q Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 43,
+    "nome": "Ana Souza",
+    "foto": "https://i.pravatar.cc/300?img=44",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "Git",
+      "CSS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa R Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 44,
+    "nome": "Rafael Rodrigues",
+    "foto": "https://i.pravatar.cc/300?img=45",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "React"
+    ],
+    "softSkills": [
+      "Liderança",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa S Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 45,
+    "nome": "Juliana Ferreira",
+    "foto": "https://i.pravatar.cc/300?img=46",
+    "cargo": "QA Tester",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa T Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 46,
+    "nome": "Mateus Alves",
+    "foto": "https://i.pravatar.cc/300?img=47",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "CSS",
+      "JavaScript",
+      "SQL"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa U Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 47,
+    "nome": "Larissa Pereira",
+    "foto": "https://i.pravatar.cc/300?img=48",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "SQL",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa V Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 48,
+    "nome": "Tiago Lima",
+    "foto": "https://i.pravatar.cc/300?img=49",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SQL",
+      "React",
+      "CSS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa W Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 49,
+    "nome": "Camila Gomes",
+    "foto": "https://i.pravatar.cc/300?img=50",
+    "cargo": "Designer de Produto",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Remoto",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "Git",
+      "React",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa X Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 50,
+    "nome": "Bruno Costa",
+    "foto": "https://i.pravatar.cc/300?img=51",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Empatia"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Y Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 51,
+    "nome": "Fernanda Ribeiro",
+    "foto": "https://i.pravatar.cc/300?img=52",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Rio de Janeiro/RJ",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "CSS"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa Z Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 52,
+    "nome": "Rodrigo Martins",
+    "foto": "https://i.pravatar.cc/300?img=53",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Belo Horizonte/MG",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa A Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 53,
+    "nome": "Patricia Carvalho",
+    "foto": "https://i.pravatar.cc/300?img=54",
+    "cargo": "QA Tester",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Curitiba/PR",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SQL",
+      "JavaScript",
+      "Git"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa B Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 54,
+    "nome": "Gustavo Almeida",
+    "foto": "https://i.pravatar.cc/300?img=55",
+    "cargo": "Desenvolvedor Front-End",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Florianópolis/SC",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa C Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 55,
+    "nome": "Amanda Lopes",
+    "foto": "https://i.pravatar.cc/300?img=56",
+    "cargo": "Scrum Master",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Brasília/DF",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "React",
+      "JavaScript",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa D Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 56,
+    "nome": "Felipe Soares",
+    "foto": "https://i.pravatar.cc/300?img=57",
+    "cargo": "Engenheiro de Software",
+    "resumo": "Profissional dedicado com experiência em Design, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Recife/PE",
+    "area": "Design",
+    "habilidadesTecnicas": [
+      "SQL",
+      "CSS",
+      "JavaScript"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Comunicação"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa E Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 57,
+    "nome": "Mariana Fernandes",
+    "foto": "https://i.pravatar.cc/300?img=58",
+    "cargo": "Designer de Produto",
+    "resumo": "Profissional dedicado com experiência em Produto, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Porto Alegre/RS",
+    "area": "Produto",
+    "habilidadesTecnicas": [
+      "CSS",
+      "JavaScript",
+      "Git"
+    ],
+    "softSkills": [
+      "Trabalho em Equipe",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa F Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2021
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 58,
+    "nome": "André Vieira",
+    "foto": "https://i.pravatar.cc/300?img=59",
+    "cargo": "Analista de Dados",
+    "resumo": "Profissional dedicado com experiência em Gestão, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Salvador/BA",
+    "area": "Gestão",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "CSS"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa G Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2022
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 59,
+    "nome": "Carolina Barbosa",
+    "foto": "https://i.pravatar.cc/300?img=60",
+    "cargo": "Gerente de Projetos",
+    "resumo": "Profissional dedicado com experiência em Dados, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "Remoto",
+    "area": "Dados",
+    "habilidadesTecnicas": [
+      "SQL",
+      "Git",
+      "CSS"
+    ],
+    "softSkills": [
+      "Empatia",
+      "Trabalho em Equipe"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa H Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2023
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Intermediário"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  },
+  {
+    "id": 60,
+    "nome": "Lucas Silva",
+    "foto": "https://i.pravatar.cc/300?img=61",
+    "cargo": "DevOps Engineer",
+    "resumo": "Profissional dedicado com experiência em Tecnologia, buscando inovação e impacto no futuro do trabalho.",
+    "localizacao": "São Paulo/SP",
+    "area": "Tecnologia",
+    "habilidadesTecnicas": [
+      "JavaScript",
+      "CSS",
+      "SQL"
+    ],
+    "softSkills": [
+      "Comunicação",
+      "Liderança"
+    ],
+    "experiencias": [
+      {
+        "empresa": "Empresa I Tech",
+        "cargo": "Analista Pleno",
+        "inicio": "2022-01",
+        "fim": "Atual",
+        "descricao": "Desenvolvimento de soluções escaláveis e trabalho em equipe ágil."
+      }
+    ],
+    "formacao": [
+      {
+        "curso": "Tecnologia da Informação",
+        "instituicao": "FIAP",
+        "ano": 2020
+      }
+    ],
+    "projetos": [
+      {
+        "titulo": "Projeto Inovação",
+        "link": "https://github.com/projeto",
+        "descricao": "Plataforma web focada em acessibilidade."
+      }
+    ],
+    "certificacoes": [
+      "Metodologias Ágeis",
+      "Fundamentos de Cloud"
+    ],
+    "idiomas": [
+      {
+        "idioma": "Inglês",
+        "nivel": "Avançado"
+      }
+    ],
+    "areaInteresses": [
+      "Inteligência Artificial",
+      "Web3",
+      "Educação"
+    ]
+  }
+]
